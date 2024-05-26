@@ -82170,7 +82170,7 @@ g=g.a.a
 f=f.a.a
 k=q.dy
 e=!J.d(q.dx.gl(0),!1)&&q.dy==="Dinheiro"?"Troco para: R$ "+e.a.a:""
-j=A.kD("https://wa.me/5579998179969?text="+A.E_(B.fk,"----------Pedido----------\n"+b+"\n\n Total: R$ "+l+"\n\n --------------------------\n Endere\xe7o:\n\n Cliente: "+i+"\n Rua: "+h+"\n Numero: "+g+"\n Ponto de referencia: "+f+"\n Forma de Pagamento: "+k+"\n "+e+"\n",B.ac,!1),0,null)
+j=A.kD("https://wa.me/5579998053488?text="+A.E_(B.fk,"----------Pedido----------\n"+b+"\n\n Total: R$ "+l+"\n\n --------------------------\n Endere\xe7o:\n\n Cliente: "+i+"\n Rua: "+h+"\n Numero: "+g+"\n Ponto de referencia: "+f+"\n Forma de Pagamento: "+k+"\n "+e+"\n",B.ac,!1),0,null)
 s=6
 return A.W(A.akv(j),$async$nz)
 case 6:s=a0?3:5
